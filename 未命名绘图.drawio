@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-04-18T03:08:01.088Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="kBEavMF7s4JCUMb0hR4Y" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-18T05:27:13.737Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="AM7PDpjR7oRjU0lBxbd9" version="21.1.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="fh893t8nvmRz90Sv5jeE-0" value="OOCL data platform" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="fh893t8nvmRz90Sv5jeE-0" value="OOCL data platform" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="164" y="360" width="546" height="410" as="geometry" />
         </mxCell>
         <mxCell id="fh893t8nvmRz90Sv5jeE-6" value="Debezium&lt;br&gt;cluster" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="fh893t8nvmRz90Sv5jeE-0">
@@ -49,7 +49,7 @@
         <mxCell id="fh893t8nvmRz90Sv5jeE-28" value="oneDMSA data platform" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="fh893t8nvmRz90Sv5jeE-0">
           <mxGeometry x="396" y="24" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fh893t8nvmRz90Sv5jeE-3" value="Amazon S3" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="fh893t8nvmRz90Sv5jeE-3" value="Amazon S3" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="850" y="360" width="260" height="410" as="geometry" />
         </mxCell>
         <mxCell id="fh893t8nvmRz90Sv5jeE-1" value="S3 oocl bucket for IDSH" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="fh893t8nvmRz90Sv5jeE-3">
@@ -109,10 +109,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fh893t8nvmRz90Sv5jeE-29" value="COSCO home" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="fh893t8nvmRz90Sv5jeE-29" value="COSCO home" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="590" width="120" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="fh893t8nvmRz90Sv5jeE-30" value="OOCL home" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="fh893t8nvmRz90Sv5jeE-30" value="OOCL home" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="410" width="130" height="170" as="geometry" />
         </mxCell>
       </root>
